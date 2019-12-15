@@ -1,1 +1,1 @@
-# cpp-project-structure
+# project-name
